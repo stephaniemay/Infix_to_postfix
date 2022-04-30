@@ -1,7 +1,3 @@
-package Project3CSC4101;
-//Stephanie Mayberry
-//Ryan Scott
-
 import java.util.*;
 
 public class Convertor {
